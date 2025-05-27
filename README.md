@@ -9,13 +9,21 @@
 
 Implementation of the CS methdology proposed in 
 
-[Donnini, F., Lapucci, M. & Mansueto, P., Efficient globalization of heavy-ball type methods for unconstrained optimization based on curve searches. arXiv pre-print (2025)]()
+[Donnini, F., Lapucci, M. & Mansueto, P., Efficient globalization of heavy-ball type methods for unconstrained optimization based on curve searches. arXiv pre-print (2025)](https://arxiv.org/abs/2505.19705)
 
 If you have used our code for research purposes, please cite the publication mentioned above.
 For the sake of simplicity, we provide the Bibtex format:
 
 ```
-TODO
+@misc{donnini2025efficientglobalizationheavyballtype,
+      title={Efficient globalization of heavy-ball type methods for unconstrained optimization based on curve searches}, 
+      author={Federica Donnini and Matteo Lapucci and Pierluigi Mansueto},
+      year={2025},
+      eprint={2505.19705},
+      archivePrefix={arXiv},
+      primaryClass={math.OC},
+      url={https://arxiv.org/abs/2505.19705}, 
+}
 ```
 
 ### Main Dependencies Installation

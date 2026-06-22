@@ -9,21 +9,27 @@
 
 Implementation of the CS methdology proposed in 
 
-[Donnini, F., Lapucci, M. & Mansueto, P., Efficient globalization of heavy-ball type methods for unconstrained optimization based on curve searches. arXiv pre-print (2025)](https://arxiv.org/abs/2505.19705)
+[Donnini, F., Lapucci, M. & Mansueto, P., Efficient Globalization of Heavy-Ball Type Methods for Unconstrained Optimization Based on Curve Searches. Journal of Optimization Theory and Applications (2026)](https://doi.org/10.1007/s10957-026-03035-w)
 
 If you have used our code for research purposes, please cite the publication mentioned above.
 For the sake of simplicity, we provide the Bibtex format:
 
 ```
-@misc{donnini2025efficientglobalizationheavyballtype,
-      title={Efficient globalization of heavy-ball type methods for unconstrained optimization based on curve searches}, 
-      author={Federica Donnini and Matteo Lapucci and Pierluigi Mansueto},
-      year={2025},
-      eprint={2505.19705},
-      archivePrefix={arXiv},
-      primaryClass={math.OC},
-      url={https://arxiv.org/abs/2505.19705}, 
+@Article{Donnini2026,
+  author={Donnini, Federica and Lapucci, Matteo and Mansueto, Pierluigi},
+  title={Efficient Globalization of Heavy-Ball Type Methods for Unconstrained Optimization Based on Curve Searches},
+  journal={Journal of Optimization Theory and Applications},
+  year={2026},
+  month={Jun},
+  day={16},
+  volume={210},
+  number={1},
+  pages={5},
+  issn={1573-2878},
+  doi={10.1007/s10957-026-03035-w}
 }
+
+
 ```
 
 ### Main Dependencies Installation
@@ -52,7 +58,7 @@ In ```parser_management.py``` you can find all the possible arguments. Given a t
 
 If you have any question, feel free to contact us:
 
-Federica Donnini, [Pierluigi Mansueto](https://webgol.dinfo.unifi.it/pierluigi-mansueto/)<br>
+[Federica Donnini](https://webgol.dinfo.unifi.it/pages/federica_donnini/), [Pierluigi Mansueto](https://webgol.dinfo.unifi.it/pages/pierluigi_mansueto/)<br>
 Global Optimization Laboratory ([GOL](https://webgol.dinfo.unifi.it/))<br>
 University of Florence<br>
 Email: federica dot donnini at unifi dot it, pierluigi dot mansueto at unifi dot it
